@@ -6,5 +6,5 @@ CREATE TABLE bears (
   temperament TEXT,
   alive BOOLEAN,
   id INT,
-  PRIMARY KEY(id)
+  PRIMARY KEY (id)
 );
