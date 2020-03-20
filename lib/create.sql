@@ -5,6 +5,6 @@ CREATE TABLE bears (
   color TEXT,
   temperament TEXT,
   alive BOOLEAN,
-  id INT,
-  PRIMARY KEY (id)
+  ID INT,
+  PRIMARY KEY (ID)
 );
